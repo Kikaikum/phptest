@@ -10,7 +10,7 @@
 <body>
 	<div>
 	
-	<button onclick="document.location='bar/anadirproducto.php'">Añadir Producto</button></br>
+	<button onclick="document.location='bar/anadirproducto.php'">Añasd Producto</button></br>
 	<button onclick="document.location='bar/editarProductos.php'">Editar Productos</button></br>
 	<button onclick="document.location='cliente/indexcliente.php'">Cliente</button></br>
 	<button onclick="document.location='bar/cocina.php'">Cocina</button></br>
